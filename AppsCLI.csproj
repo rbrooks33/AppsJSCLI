@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <Folder Include="bin\Debug\netcoreapp2.2\" />
+    <Folder Include="bin\Release\netcoreapp2.2\" />
   </ItemGroup>
 
 </Project>
