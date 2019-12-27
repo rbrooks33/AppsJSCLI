@@ -1,0 +1,11 @@
+{
+  "BaseComponentsFolder": {
+    "Path": "C:\\Local\\Work\\Brooksoft\\AppsJS\\Components\\AppsJSSoftware\\AppsJSSoftware\\Scripts\\Apps\\Components",
+    "Description": "Unless overriden by Folder property of component, folder where the component will be created."
+  },
+  "BaseTemplatesFolder": {
+    "Path": "C:\\Local\\Work\\Brooksoft\\AppsJS\\Components\\AppsJSSoftware\\AppsJSSoftware\\Scripts\\Apps\\_AppsIgnore\\Templates",
+    "Description": "Folder where default set of templates"
+  }
+
+}

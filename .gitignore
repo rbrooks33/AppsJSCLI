@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/AppsCLI/v16/Server/sqlite3
+/bin
+/obj
+/Properties/PublishProfiles
+/.vs/AppsCLI
