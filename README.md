@@ -1,0 +1,2 @@
+# AppsJSCLI
+Automates template creation
